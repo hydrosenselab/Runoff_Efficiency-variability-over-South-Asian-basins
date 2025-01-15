@@ -1,0 +1,13 @@
+1. Open mobaxterm
+2. ./proxy.sh
+3. takee new tab, ssh chas002 (whataver yours)
+4. internet
+   www.google.com
+	
+4. conda activate imed_lis
+5. Copy all the calibrated outputs to your drive
+
+scp -r /home/civil/phd/cez218606/Projects/Calibration/Calibrated_Merged_output/SURFACEMODEL/ /home/civil/irdstaff/ird600406/Research/1_Paper/DATA_r/1_Model_simulation/NoahMP_calib/
+
+Note : Sometime space wont be there, so better put in scratch 
+/home/civil/irdstaff/ird600406/DATA_r/1_Model_simulation/NoahMP/
