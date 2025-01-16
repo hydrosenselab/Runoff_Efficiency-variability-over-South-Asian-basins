@@ -9,6 +9,9 @@ Preprint Citation: Sidhan, V.V., Saharia, M., Controls on runoff efficiency and 
 # Major Dataset used
 
 IMD precipitation: https://www.imdpune.gov.in/Clim_Pred_LRF_New/
+
 MERRA-2: GMAO, NASA Goddard Space Flight Centre, https://disc. gsfc.nasa.gov/datasets?project = MERRA-2.
+
 MODIS Evapotranspiration: GSFC, NASA, https://modis.gsfc.nasa. gov/data/dataprod/mod16.php.
+
 The NRCS-USDA soil Map
