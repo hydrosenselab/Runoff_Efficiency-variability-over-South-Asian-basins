@@ -1,5 +1,5 @@
 ## Spatio-temporal Variability of Runoff Efficiency (RE)
-Runoff efficiency (RE) defined as runoff/rainfall represents the potential of a basin to generate runoff in response to precipitation and it varies based on climatology and physiography. It is a key metric that enables hydrologists to compare the hydrologic responses of basins across diverse climates and landscapes. The purpose of the study to evaluate the spatio-temporal variability of Runoff efficiency over the South Asian river basins. The study has evaluated the 
+Runoff efficiency (RE) defined as runoff/rainfall represents the potential of a basin to generate runoff in response to precipitation and it varies based on climatology and physiography. It is a key metric that enables hydrologists to compare the hydrologic responses of basins across diverse climates and landscapes. The purpose of the study to evaluate the spatio-temporal variability of Runoff efficiency over the South Asian river basins. The study has also analysed the factors affecting the RE such as Antecedent soil moisture, geology, and land use land etc.  
 
 
 # Cite As
