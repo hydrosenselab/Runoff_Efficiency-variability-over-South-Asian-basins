@@ -8,9 +8,7 @@ Preprint Citation: Sidhan, V.V., Saharia, M., Controls on runoff efficiency and 
 
 # Major Dataset used
 
-All the datasets used in this study is available in the links:
-
-https://doi.org/10.5281/zenodo.14689801
+All the datasets used in this study is available in the links: https://doi.org/10.5281/zenodo.14689801
 
 IMD precipitation: https://www.imdpune.gov.in/Clim_Pred_LRF_New/
 
